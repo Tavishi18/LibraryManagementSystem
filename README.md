@@ -5,9 +5,11 @@ An automated system to manage a public library. Admin panel for librarians to co
 I have used Java Swing and MySQL to build build this project. Library management system is a typical information managment system that uses JAVA development tool Apache
 and MySQL database. The features  Include:
 
-Addition, Deletion and Modification of Library Members (Staff/Student)
-Addition, Deletion and Modification of Library Books
-Issuance and Return of Books along with Calculation of Fine if Delay Occurs.
+Addition, Deletion and Modification of Library Members (Staff/Student)  
+
+Addition, Deletion and Modification of Library Books 
+
+Issuance and Return of Books along with Calculation of Fine if Delay Occurs. 
 
 ## 2. Description
 
