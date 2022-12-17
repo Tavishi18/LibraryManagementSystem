@@ -22,9 +22,15 @@ The database made in MySQL is called librarymanagement and has 5 tables: account
 
 
 ## 3. Input/Output
+The user has to give his/her userid and password as input or create an account if the user is new. The details are authenticated by the sql database. When the user
+enters his/her details he will be directed to the homepage. There the user gets options to add or issue or return books. The librarian gets to add students and 
+control the books being issued.
 
 ## 4. Live link: https://github.com/Tavishi18/LibraryManagementSystem.git
 
 
 ## 5. Screenshot of the interface
+![image](https://user-images.githubusercontent.com/83503708/208257876-0eb3d6f6-e113-44d4-a8f3-b269e4bdddc2.png)
+![image](https://user-images.githubusercontent.com/83503708/208257924-c071415e-f3f0-48f1-87d9-e2af9082f06e.png)
+![image](https://user-images.githubusercontent.com/83503708/208257980-9b63faee-16d1-4733-8281-7d60fea12d85.png)
 
