@@ -15,6 +15,10 @@ Issuance and Return of Books
 
 
 ## 2. Description
+The database made in MySQL is called librarymanagement and has 5 tables: account, book, issuebook, returnbood and student. This is connected to the classes of front-end via a JDBC connecting class.
+![image](https://user-images.githubusercontent.com/83503708/208257383-d2c6e052-affd-40a9-a6fb-4b7d92bfcd05.png)
+
+![image](https://user-images.githubusercontent.com/83503708/208257462-76e7b06c-6c6f-468d-93c0-5799f0da085b.png)
 
 
 ## 3. Input/Output
